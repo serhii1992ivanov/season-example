@@ -32,7 +32,7 @@ public class SeasonExample {
       case "september":
       case "october":
       case "november":
-        season = Season.AUTUMN;
+        season = Season.AUTUMN;//month
         System.out.println(season);
         break;
       default:
